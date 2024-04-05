@@ -372,8 +372,9 @@
 }
 
 .footer__column-heading {
-  margin-top: 0;
-  margin-bottom: 20px;
+  margin: 0 auto 20px;
+  /*margin-top: 0;
+  margin-bottom: 20px;*/
 }
 
 .footer__list {
@@ -384,8 +385,9 @@
 
 .footer__list-item {
   font-size: 16px;
-  margin-top: 0;
-  margin-bottom: 16px;
+  margin: 0 auto 16px;
+  /*margin-top: 0;
+  margin-bottom: 16px;*/
 }
 
 .footer__column-link {
@@ -403,6 +405,8 @@
 }
 
 .footer__copyright {
+  margin: 100px auto 0;
+  /*
   margin-top: 100px;
-  margin-bottom: 0;
+  margin-bottom: 0;*/
 }

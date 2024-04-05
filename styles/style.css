@@ -315,13 +315,13 @@
   margin: 100px 0 0;
   display: flex;
   justify-content: center;
+  column-gap: 40px;
 }
 
 .step {
   position: relative;
   display: flex;
   flex-basis: 220px;
-  margin-right: 40px;
   flex-direction: column;
 }
 
@@ -358,7 +358,8 @@
 .footer__column_content_hours {
   position: absolute;
   right: 280px;
-  margin-right: 0px;
+  margin-right: 80px;
+  margin-left: auto;
 }
 
 .footer__column_content_social {
@@ -390,12 +391,14 @@
 .footer__column-link {
   color: white;
   text-decoration: none;
+  display: flex;
+  align-items: baseline;
+  column-gap: 10px;
 }
 
 .footer__social-icon {
   width: 16px;
   height: 16px;
-  margin-right: 10px;
 }
 
 .footer__copyright {

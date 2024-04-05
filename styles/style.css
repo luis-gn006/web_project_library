@@ -392,7 +392,8 @@
   color: white;
   text-decoration: none;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
+  /*Luis debe ser center */
   column-gap: 10px;
 }
 

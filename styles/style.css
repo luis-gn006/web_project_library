@@ -392,7 +392,7 @@
   color: white;
   text-decoration: none;
   display: flex;
-  align-items: baseline;
+  align-items: start;
   column-gap: 10px;
 }
 

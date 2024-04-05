@@ -390,12 +390,12 @@
 .footer__column-link {
   color: white;
   text-decoration: none;
-  margin-left: 10px;
 }
 
 .footer__social-icon {
   width: 16px;
   height: 16px;
+  margin-right: 10px;
 }
 
 .footer__copyright {
